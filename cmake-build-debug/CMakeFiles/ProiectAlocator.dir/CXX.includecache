@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anca/CLionProjects/ProiectAlocator/Chunk.h
+
+/home/anca/CLionProjects/ProiectAlocator/PoolAllocator.h
+cstdio
+-
+Chunk.h
+/home/anca/CLionProjects/ProiectAlocator/Chunk.h
+
+/home/anca/CLionProjects/ProiectAlocator/main.cpp
+iostream
+-
+PoolAllocator.h
+/home/anca/CLionProjects/ProiectAlocator/PoolAllocator.h
+
